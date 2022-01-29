@@ -23,11 +23,12 @@ urllib3
 wincertstore
 tkinter
 
-Step 1: Run gui.py
-Step 2: Enter Details
-Step 3: Camera window will pop-up
-Step 4: Automatically Marks Attendance
-Step 5: Attendance will be stored in the CSV file
+Steps to run the project:
+1. Run gui.py
+2. Enter Details
+3. Camera window will pop-up
+4. Automatically Marks Attendance
+5. Attendance will be stored in the CSV file
 
 File Specification
 1. 'gui.py' file: Start file of the project
