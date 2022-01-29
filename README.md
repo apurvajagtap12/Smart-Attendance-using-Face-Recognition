@@ -35,4 +35,4 @@ File Specification
 2. 'main.py' file: This file contains the main code for the project
 3. '3rd Year' folder: This contains images of 3rd year students
 4. '4rd Year' folder: This contains images of 4rd year students
-5. 'Files' folder: This will store the CSV files
+5. 'Attendance' folder: This will store the CSV files
