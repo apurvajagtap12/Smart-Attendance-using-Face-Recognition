@@ -1,27 +1,27 @@
 # Smart-Attendance-using-Face-Recognition
 
 Download the python libraries mentioned below to run this project
-certifi
-chardet
-click
-cmake
-decorator
-dlib
-face-recognition
-face-recognition-models
-idna
-imageio
-imageio-ffmpeg
-moviepy
-numpy
-opencv-python
-Pillow
-proglog
-requests
-tqdm
-urllib3
-wincertstore
-tkinter
+1.	certifi
+2.	chardet
+3.	click
+4.	cmake
+5.	decorator
+6.	dlib
+7.	face-recognition
+8.	face-recognition-models
+9.	idna
+10.	imageio
+11.	imageio-ffmpeg
+12.	moviepy
+13.	numpy
+14.	opencv-python
+15.	Pillow
+16.	proglog
+17.	requests
+18.	tqdm
+19.	urllib3
+20.	wincertstore
+21.	tkinter
 
 Steps to run the project:
 1. Run gui.py
